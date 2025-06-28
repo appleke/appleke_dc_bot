@@ -1,0 +1,10 @@
+{
+    "prefix": "!",
+    "activity": null,
+    "system_prompt": "[用繁體中文回答]",
+    "personality": "None",
+    "chat_memory": true,
+    "gpt_api": "gemini",
+    "model": "gemini-1.5-flash",
+    "use_search_engine": true
+}
